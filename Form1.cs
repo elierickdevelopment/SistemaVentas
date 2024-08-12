@@ -26,7 +26,7 @@ namespace SistemaVentas
 
         private void cREARNUEVAVENTAToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            //asdasdasd
         }
     }
 }
